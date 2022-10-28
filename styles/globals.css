@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 
+/* css from create-next-app
 html,
 body {
   padding: 0;
@@ -30,3 +31,4 @@ a {
     background: black;
   }
 }
+*/
