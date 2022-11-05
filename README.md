@@ -1,8 +1,8 @@
 ## prerequisites
+
 - npm install
 - install Tailwind CSS Intellisense VSCode extension
-
-
+- npm run dev
 
 ## NextJS Boilerplate Below
 
